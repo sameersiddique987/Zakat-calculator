@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.border{
+    
+    justify-content: center;
+    
+    border: 1px solid gray;
+    
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    background-color:ghostwhite;
+    cursor: pointer;
+    box-shadow: 10px 10px 10px ;
+}
+#width{
+    width: 50%;
+    text-align: center;
+}
+body{
+    background-image: url(bg.image.webp);
+}
